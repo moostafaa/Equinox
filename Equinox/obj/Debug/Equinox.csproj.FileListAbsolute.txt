@@ -1,0 +1,6 @@
+I:\Projects\Equinox\Equinox\bin\Debug\Equinox.pdb
+I:\Projects\Equinox\Equinox\obj\Debug\Equinox.csprojResolveAssemblyReference.cache
+I:\Projects\Equinox\Equinox\obj\Debug\Equinox.pdb
+I:\Projects\Equinox\Equinox\bin\Debug\Equinox.dll.config
+I:\Projects\Equinox\Equinox\bin\Debug\Equinox.dll
+I:\Projects\Equinox\Equinox\obj\Debug\Equinox.dll

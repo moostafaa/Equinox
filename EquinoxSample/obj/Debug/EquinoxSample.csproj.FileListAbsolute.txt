@@ -1,0 +1,7 @@
+I:\Projects\Equinox\EquinoxSample\obj\Debug\EquinoxSample.csprojResolveAssemblyReference.cache
+I:\Projects\Equinox\EquinoxSample\bin\Debug\EquinoxSample.exe
+I:\Projects\Equinox\EquinoxSample\bin\Debug\EquinoxSample.pdb
+I:\Projects\Equinox\EquinoxSample\bin\Debug\Equinox.dll
+I:\Projects\Equinox\EquinoxSample\bin\Debug\Equinox.pdb
+I:\Projects\Equinox\EquinoxSample\obj\Debug\EquinoxSample.exe
+I:\Projects\Equinox\EquinoxSample\obj\Debug\EquinoxSample.pdb
