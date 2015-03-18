@@ -6,6 +6,7 @@ namespace EquinoxSample
 {
     class Program
     {
+        //Compute shamsi date
         public static string ToShamsiDateTime(DateTime gregorianDateTime)
         {
             var year = gregorianDateTime.Year;

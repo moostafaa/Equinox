@@ -27,7 +27,7 @@ namespace Equinox
     }
 
     /// <summary>
-    /// 
+    /// main class
     /// </summary>
     public static class EquinoxCalculator
     {
